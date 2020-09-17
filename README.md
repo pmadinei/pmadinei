@@ -14,7 +14,7 @@ I am Parsa...
 
 ### 🚀 Honors
 #### * University of Tehran, Faculty of Computer Engineering Exceptional Talent student
-#### * University of Tehran, TOP-5 Amog Undergraduate Students in the Field of Study
+#### * University of Tehran, TOP-5 Among Undergraduate Students in the Field of Study
 #### * University of Tehran, College of Science Exceptional Talent student for 5 Semesters
 
 <!--
