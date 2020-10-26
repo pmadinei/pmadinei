@@ -4,11 +4,11 @@ I am Parsa...
 
 :mortar_board: I am a senior undergraduate student at the University of Tehran in the field of both Computer Engineering and Biology.
 
-🔭 I’m currently working on Computational Biology and Biomedical engineering
+🔭 I’m currently working on Computational Neuroscience and Neuroinformatics
 
-🌱 I’m currently learning advanced Machine Learning functions in Medical problems
+🌱 I’m currently learning advanced Machine Learning functions in Cognitive Neuroscience
 
-👯 I’m looking to collaborate on applied Machine Learning advancements in the medical and biological domain
+👯 I’m looking to collaborate on applied Machine Learning advancements in the Neuroscience domain
 
 📫 How to reach me: [Email Me!](mailto:parsamadinei@gmail.com)
 
