@@ -13,7 +13,7 @@ I am Parsa...
 📫 How to reach me: [Email Me!](mailto:parsamadinei@gmail.com)
 
 ### 🚀 Honors
-#### * Best Poster Award in Basic and Clinical Neuroscience Congress 2020; The Golden Ahwazi Young Investigator Award
+#### * The Golden Ahwazi Young Investigator Award (The Most Authoritative Award in Neuroscience and Cognitive Science in Iran)
 #### * University of Tehran, Faculty of Engineering Exceptional Talent Student
 #### * University of Tehran, Ranked TOP-5 in the Class of 2020 in Biology
 #### * University of Tehran, College of Science "Excellent in Term" Award for 5 Semesters
