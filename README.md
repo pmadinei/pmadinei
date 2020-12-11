@@ -8,7 +8,7 @@ I am Parsa...
 
 🌱 I’m currently learning advanced Machine Learning applications in Cognitive and Systems Neuroscience
 
-👯 I’m looking to collaborate on applied Neuroscience advancements in the Machine Learning domain
+👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain
 
 📫 How to reach me: [Email Me!](mailto:parsamadinei@gmail.com)
 
