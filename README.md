@@ -2,11 +2,11 @@
 
 I am Parsa...
 
-:mortar_board: I am a senior undergraduate student at the University of Tehran in the field of both Computer Engineering and Biology.
+:mortar_board: I am a PhD student at University of California, Santa Barbara in the field of Neuroscience.
 
 🔭 I’m currently working on Computational Neuroscience and Neuroinformatics
 
-🌱 I’m currently learning advanced Machine Learning applications in Cognitive and Systems Neuroscience
+🌱 I’m currently learning advanced Deep Learning applications in State-of-the-art microscopy imaging
 
 👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain
 
