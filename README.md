@@ -4,9 +4,9 @@ I am Parsa...
 
 :mortar_board: I am a PhD student at University of California, Santa Barbara in the field of Neuroscience.
 
-🔭 I’m currently working on Computational Neuroscience and Neuroinformatics
+🔭 I’m currently working on modeling of microstructure and self-organization of the brain serotonergic system
 
-🌱 I’m currently learning advanced Deep Learning applications in State-of-the-art microscopy imaging
+🌱 I’m currently learning advanced Deep Learning applications in advanced super resolution microscopy imaging
 
 👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain
 
