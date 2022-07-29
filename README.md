@@ -6,7 +6,7 @@ I am Parsa...
 
 🔭 I’m currently working on modeling of microstructure and self-organization of the brain serotonergic system
 
-🌱 I’m currently learning advanced Deep Learning applications in advanced super resolution microscopy imaging
+🌱 I’m currently acquiring knowledge of Deep Learning applications in advanced super resolution microscopy imaging
 
 👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain
 
