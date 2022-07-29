@@ -15,8 +15,6 @@ I am Parsa...
 ### 🚀 Honors
 #### * The Golden Ahwazi Award (The Most Authoritative Award in Neuroscience and Cognitive Science in Iran), Dec 2020
 #### * University of Tehran, Faculty of Engineering Exceptional Talent Student
-#### * University of Tehran, Ranked TOP-5 in the Class of 2020 in Biology
-#### * University of Tehran, College of Science "Excellent in Term" Award for 5 Semesters
 
 <!--
 **pmadinei/pmadinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
