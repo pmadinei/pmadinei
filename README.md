@@ -2,7 +2,7 @@
 
 I am Parsa...
 
-:mortar_board: I am a PhD student at University of California, Santa Barbara in the field of Neuroscience.
+:mortar_board: I am a Neuroscience PhD student at University of California, Santa Barbara.
 
 🔭 I’m currently working on modeling of microstructure and self-organization of the brain serotonergic system
 
