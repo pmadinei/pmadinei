@@ -6,9 +6,9 @@ I am Parsa...
 
 🔭 I’m currently working on incorporating human visual properties into multi-modal deep learning models to develop more comprehensive and human-centered vision-language models.
 
-🌱 I’m currently acquiring knowledge of human-centered design in advanced multimodal computer vision models.
+🌱 I’m currently acquiring knowledge of human-centered design in advanced multimodal computer vision systems.
 
-👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain
+👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain.
 
 📫 How to reach me: [Email Me!](mailto:madinei@ucsb.edu)
 
