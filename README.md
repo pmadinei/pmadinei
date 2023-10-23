@@ -4,7 +4,7 @@ I am Parsa...
 
 :mortar_board: I am a Neuroscience PhD student and a Computer Science graduate student at University of California, Santa Barbara.
 
-🔭 I’m currently working on incorporating human visual properties into multi-modal deep learning models and exploring the intersection of visual neuroscience and deep learning to develop more comprehensive and human-centered vision-language models.
+🔭 I’m currently working on incorporating human visual properties into multi-modal deep learning models to develop more comprehensive and human-centered vision-language models.
 
 🌱 I’m currently acquiring knowledge of human-centered design in advanced multimodal computer vision models.
 
