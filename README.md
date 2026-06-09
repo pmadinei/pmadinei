@@ -1,24 +1,22 @@
-### Hi there 👋
+# Parsa Madinei
 
-I am Parsa...
+PhD candidate in Psychological & Brain Sciences at **UC Santa Barbara**, advised by Dr. Miguel Eckstein in the [Vision & Image Understanding Lab](https://viu.psych.ucsb.edu/). My work sits at the intersection of computer vision, vision-language models, and human visual perception.
 
-:mortar_board: I am a Neuroscience PhD student and a Computer Science graduate student at University of California, Santa Barbara.
+I'm interested in a two-way exchange between minds and models: using **eye movements, gaze, and foveated perception** to make multimodal AI more efficient and better aligned with how people see — and using those models, in turn, as instruments for understanding human vision.
 
-🔭 I’m currently working on incorporating human visual properties into multi-modal deep learning models to develop more comprehensive and human-centered vision-language models.
+## What I work on
 
-🌱 I’m currently acquiring knowledge of human-centered design in advanced multimodal computer vision systems.
+- **Efficient vision-language models** — interleaved layer pruning, low-rank compression, and visual-token reduction without giving up accuracy
+- **Gaze & foveated perception** — human eye-tracking and saccades as a supervisory signal for where a model should compute
+- **Active visual search** — reinforcement-learning agents with a frozen VLM backbone that move a foveated sensor to find targets
+- **The human–VLM perception gap** — measuring where model scene understanding diverges from human judgment
 
-👯 I’m looking to collaborate on applied Neuroscience advancements in Machine Learning domain.
+## Selected work
 
-📫 How to reach me: [Email Me!](mailto:madinei@ucsb.edu)
+- **INTERLACE** · *CVPR 2026* — Interleaved layer pruning and efficient adaptation in large VLMs · [paper](https://arxiv.org/abs/2511.19676) · [code](https://github.com/pmadinei/Interlace)
+- **IRIS** — Intent resolution via inference-time saccades for open-ended VQA · [arXiv](https://arxiv.org/abs/2602.16138)
+- **CSS** — Revealing the gap in human and VLM scene perception · [arXiv](https://arxiv.org/abs/2605.13047)
 
-### 🚀 Honors
-#### * The Golden Ahwazi Award (The Most Authoritative Award in Neuroscience and Cognitive Science in Iran), Dec 2020
-#### * University of Tehran, Faculty of Engineering Exceptional Talent Student
+## Get in touch
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmadinei&hide=contribs,stars&count_private=true&theme=swift&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmadinei&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**pmadinei/pmadinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website](https://pmadinei.github.io) · [Google Scholar](https://scholar.google.com/citations?user=xflZUGAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/pmadinei/) · madinei@ucsb.edu
